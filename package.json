@@ -1,0 +1,25 @@
+{
+  "name": "fictional-guacamole",
+  "version": "1.0.0",
+  "description": "Leaning how to work with Git",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zeydaniel8085/fictional-guacamole.git"
+  },
+  "dependencies": {
+    "redesigned-octo-winner": "1.0.0",
+    "ubiquitous-octo-engine": "1.0.0",
+    "legendary-robot": "1.0.0",
+    "friendly-barnacle": "1.0.0"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zeydaniel8085/fictional-guacamole/issues"
+  },
+  "homepage": "https://github.com/zeydaniel8085/fictional-guacamole#readme"
+}
