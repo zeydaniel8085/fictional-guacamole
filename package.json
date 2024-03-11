@@ -1,6 +1,6 @@
 {
   "name": "fictional-guacamole",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Leaning how to work with Git",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zeydaniel8085/fictional-guacamole.git"
+    "url": "https://github.com/zeydaniel8085/fictional-guacamole.git"
   },
   "dependencies": {
     "redesigned-octo-winner": "1.0.0",
@@ -16,7 +16,8 @@
     "legendary-robot": "1.0.0",
     "friendly-barnacle": "1.0.0",
     "friendly-eureka": "1.0.0",
-    "studious-succotash": "1.0.0"
+    "studious-succotash": "1.0.0",
+    "data-structures-by-a1lexen": "1.0.1"
   },
   "author": "",
   "license": "ISC",
